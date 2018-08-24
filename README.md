@@ -1,3 +1,11 @@
+# DEPRECATED!
+This library is unmaintained! Please don't use it!
+
+An alternative:
+* https://github.com/gliterd/backblaze-b2
+
+
+
 # php-backblaze-b2-uploader
 PHP Class that allows you to upload files to Backblaze B2
 
